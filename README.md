@@ -1,7 +1,7 @@
-# PhoenixDelta
+# Phoenix Delta
 DIY Delta Printer using Klipper firmware
 
-THis printer is a work in progress
+This printer is a work in progress
 
 Below are a list of parts I used to build it
 
