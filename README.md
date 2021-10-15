@@ -6,8 +6,8 @@ This printer is a work in progress
 Below are a list of parts I used to build it
 
 - 3 x 1000mm 2020 Extrusion
-- 6 x 400mm 2020 Extrusion
-- 3 x Mellow 20T Idlers with teeth
+- 9 x 400mm 2020 Extrusion
+- 3 x Mellow 20T Idlers with teeth 3mm bore or 5mm bore depends on your corners
 - 3 x Mellow 20T Pulley
 - GT2 Timing Belt
 - SKR Mini E3 2.0 Mainboard
