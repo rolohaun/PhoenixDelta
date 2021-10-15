@@ -16,3 +16,7 @@ Below are a list of parts I used to build it
 - BMG Dual Gear Extruder
 - Piezo bed level sensor
 - 350mm Delta Print Bed
+- 100 x M5 x 10mm Bolt
+- 100 M5 T-nut
+- 100 M5 T-nut Drop in type
+- 3 x Optical Endstops
